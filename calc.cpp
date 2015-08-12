@@ -3,6 +3,6 @@
 int main()
 { 
     int a; 
-    int b;
     printf("This is test code");
+    printf("This is a new version");
 }
